@@ -2,7 +2,7 @@ Citizen.CreateThread(function()
 
 	while true do
 
-		Wait(0)
+		Wait(500)
 
 		for i = 1, 15 do
 
